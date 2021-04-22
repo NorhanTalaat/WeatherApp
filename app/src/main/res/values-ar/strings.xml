@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حالة الطقس</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="degree_celsius_symbol_with_temp">32.9°C</string>
+    <string name="degree_celsius_symbol_with_temp2">32°C</string>
+    <string name="degree_celsius_symbol_with_temp3">Evening\n32°C</string>
+    <string name="label_real_feel">الحقيقى</string>
+    <string name="label_humidity">الرطوبه</string>
+    <string name="label_cloudiness">الغيوم</string>
+    <string name="label_pressure">الضغط</string>
+    <string name="label_wind_speed">سرعه الرياح</string>
+    <string name="label_visibility">الرؤيه</string>
+    <string name="btn_label_forecast">توقعات الاسبوع </string>
+    <string name="title_activity_maps">الخريطه</string>
+    <string name="favourate">اضف الى المفضلة </string>
+    <string name="temp">درجه الحرارة</string>
+    <string name="day">اليوم</string>
+    <string name="eve">المساء</string>
+    <string name="night">الليل</string>
+    <string name="max">العظمى</string>
+    <string name="min">الصغرى</string>
+    <string name="feel_like">الحقيقى</string>
+    <string name="morning">الصباح</string>
+    <string name="language">اللغه</string>
+    <string name="units">الوحدات</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزيه</string>
+    <string name="metric">درجه مئوية</string>
+    <string name="imperial">فهرنهايت</string>
+    <string name="standard">كلفن</string>
+    <string name="settings">الضبط</string>
+    <string name="alarm">المنبه</string>
+    <string name="today">اليوم</string>
+    <string name="favorite">المفضلة</string>
+    <string name="dialogMessage"> هل تريد حذف هذا المكان ؟!</string>
+    <string name="yes">نعم</string>
+    <string name="no">الغاء</string>
+    <string name="Describtion">الوصف</string>
+    <string name="Date">التاريخ</string>
+    <string name="From">من</string>
+    <string name="to">الى</string>
+    <string name="Events">الحدث</string>
+    <string name="save_add_btn">حفظ</string>
+    <string name="notification">اشعارات</string>
+    <string name="alarmSound">منبه</string>
+    <string name="soundType">نوع التنبيه</string>
+    <string name="latitude_key" translatable="false">latitude</string>
+    <string name="description">الوصف</string>
+    <string name="dd_mm_yy">يوم/شهر/سنة</string>
+    <string name="map_btn">تاكيد</string>
+    <string name="weather_details">التفاصيل</string>
+    <string name="notification_title">"الحدث : "</string>
+    <string name="notification_body">\"انتبه من \"</string>
+    <string name="alarm_toolstip">اضافه</string>
+    <string name="helpInfo">اسحب للحذف</string>
+    <string name="empty_time">""</string>
+    <string name="empty_date">""</string>
+    <string name="name">حالة الطقس</string>
+
+    <string-array name="event_options">
+        <item>امطار</item>
+        <item>ثلوج</item>
+        <item>ضباب</item>
+        <item>عاصفة رعديه</item>
+        <item>غيوم</item>
+        <item>رياح</item>
+        <item>صافى</item>
+    </string-array>
+    <string-array name="alarm_type">
+    <item>اشعارات</item>
+    <item>منبه</item>
+    </string-array>
+
+</resources>
